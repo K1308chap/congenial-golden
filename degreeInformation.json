@@ -1,0 +1,28 @@
+{
+    "my_degrees": [
+        {
+            "degree": {
+                "School": "Virginia Commonwealth University",
+                "Program/Major": "Biology",
+                "Type": "BS",
+                "Year Conferred": 2012
+            }
+        },
+        {
+            "degree": {
+                "School": "Virginia Commonwealth University",
+                "Program/Major": "Business with a concentration in Global Marketing Management",
+                "Type": "MS",
+                "Year Conferred": 2019
+            }
+        },
+        {
+            "degree": {
+                "School": "Boston University",
+                "Program/Major": "Computer Information Systems with a concentration in Web Application Development",
+                "Type": "MS",
+                "Year Conferred": 2021
+            }
+        }
+    ]
+}
